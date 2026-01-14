@@ -1,0 +1,13 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+
+#include "UI/WidgetController/AttributeMenuWidgetController.h"
+#include "AttributeMenuWidgetController.h"
+
+void UAttributeMenuWidgetController::BroadcastInitialValues()
+{
+}
+
+void UAttributeMenuWidgetController::BindCallbacksToDependencies()
+{
+}
